@@ -30,5 +30,6 @@ Outputs: The following are jpgs made to exemplify the transparency, the real png
 ![output2](images/example2.jpg)
 
 255 sensibility:
+Since none of the pixels are pure white, we need to lower the sensibility.
 
 ![output3](images/example4.jpg)
