@@ -23,12 +23,12 @@ Outputs: The following are jpgs made to exemplify the transparency, the real png
 
 240 sensibility:
 
-![input](images/example1.jpg)
+![output1](images/example1.jpg)
 
 250 sensibility:
 
-![input](images/example2.jpg)
+![output2](images/example2.jpg)
 
 255 sensibility:
 
-![input](images/example3.jpg)
+![output3](images/example4.jpg)
