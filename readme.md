@@ -10,23 +10,23 @@ The script takes in three arguments.
 * Sensibility(optional): A value from 0 to 255 to determine how whitish an element has to be in order to be turned transparent. 255 would imply only pure whites are turned transparent.
 * It also has a -h help command, which will explain  the arguments needed to run the script.
 
-![terminal]("images/terminal.jpg")
+![terminal](images/terminal.jpg)
 
 
 ### Examples:
 
 Input image:
 
-![input]("images/logo.jpg")
+![input](images/logo.jpg)
 
 240 sensibility:
 
-![input]("images/nueva240.png")
+![input](images/nueva240.png)
 
 250 sensibility:
 
-![input]("images/nueva250.png")
+![input](images/nueva250.png)
 
 255 sensibility:
 
-![input]("images/nueva255.png")
+![input](images/nueva255.png)
