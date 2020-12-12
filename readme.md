@@ -19,6 +19,8 @@ Input image:
 
 ![input](images/logo.jpg)
 
+Outputs: The following are jpgs made to exemplify the transparency, the real pngs are inside the image folders and can be downloaded.
+
 240 sensibility:
 
 ![input](images/example1.jpg)
