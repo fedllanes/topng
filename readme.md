@@ -21,12 +21,12 @@ Input image:
 
 240 sensibility:
 
-![input](images/nueva240.png)
+![input](images/example1.jpg)
 
 250 sensibility:
 
-![input](images/nueva250.png)
+![input](images/example2.jpg)
 
 255 sensibility:
 
-![input](images/nueva255.png)
+![input](images/example3.jpg)
