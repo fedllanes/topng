@@ -10,7 +10,7 @@ if "-h" in sys.argv:
 img = plt.imread(sys.argv[1]) #We read the image in the path that the user indicated.
 new_shape = list(img.shape) #We create a new shape which is gonna be the shape of the output png
 new_shape[2] = 4 #We make sure it has 4 dimensions
-new_img = np.ones(shape=new_shape) * 255 #We create the new image and set it the entire transparency layer to 1.
+new_img = np.ones(shape=new_shape) * 255 #We create the new image and set the entire transparency(and image) layer to 1.
 new_img[:,:,0:3] = img # We replace the non transparency layers to the original value.
 if len(sys.argv) == 4: #We make sure that the user actually inputted a value for sensibility
     sensibility = int(sys.argv[3]) #We give the user value the sensibility value
